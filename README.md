@@ -8,9 +8,15 @@ To run the project,
 ```
 pip install streamlit
 ```
-
-  
-2. Enter the following command in the terminal
+2. Install streamlit_lottie
+```
+pip install streamlit_lottie
+```
+3. Install requests
+```
+pip install requests
+```
+4. Enter the following command in the terminal
 ```
 streamlit run CFG_Derivations.py
 ```
